@@ -1,0 +1,6 @@
+{
+  "name": "GHOST MOVE GO - Traditional Baduk",
+  "description": "Authentic traditional Korean Baduk / Go board game with 19x19, 13x13, 9x9 boards, strong strategic AI, tsumego puzzles, realistic wooden board physics, and production Android project exporter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GHOST MOVE GO</string>
+    <string name="developer">Shahab Millizai</string>
+    <string name="game_title">GHOST MOVE GO</string>
+    <string name="korean_title">바둑 (Baduk)</string>
+    
+    <!-- AdMob Ad Unit Strings -->
+    <string name="admob_app_id">ca-app-pub-2790436784008422~8453883628</string>
+    <string name="admob_banner_id">ca-app-pub-2790436784008422/1789541965</string>
+    <string name="admob_interstitial_id">ca-app-pub-2790436784008422/7512641939</string>
+    <string name="admob_rewarded_id">ca-app-pub-2790436784008422/4032561925</string>
+    <string name="admob_app_open_id">ca-app-pub-2790436784008422/3573396924</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <color name="board_kaya">#DCB35C</color>
+    <color name="board_lines">#57310E</color>
+    <color name="stone_black">#121110</color>
+    <color name="stone_white">#F7F5ED</color>
+    <color name="bg_dark">#121110</color>
+    <color name="bg_card">#1A1714</color>
+    <color name="gold_accent">#C28E46</color>
+</resources>
